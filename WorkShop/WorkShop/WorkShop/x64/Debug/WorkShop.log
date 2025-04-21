@@ -1,0 +1,6 @@
+﻿  Interpreter.cpp
+  Parser.cpp
+C:\Magshimim\WorkShop\WorkShop\FirstMission\1\Parser.cpp(117,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Magshimim\WorkShop\WorkShop\FirstMission\1\Parser.cpp(155,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  WorkShop.vcxproj -> C:\Magshimim\WorkShop\WorkShop\x64\Debug\WorkShop.exe
